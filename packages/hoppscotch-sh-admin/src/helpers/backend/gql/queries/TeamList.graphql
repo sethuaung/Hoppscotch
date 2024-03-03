@@ -1,0 +1,11 @@
+query TeamList($cursor: ID, $take: Int) {
+  infra {
+    allTeams(cursor: $cursor, take: $take) {
+      id
+      name
+      members {
+        membershipID
+      }
+    }
+  }
+}

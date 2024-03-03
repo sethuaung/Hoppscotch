@@ -1,0 +1,10 @@
+query InvitedUsers {
+  infra {
+    invitedUsers {
+      adminUid
+      adminEmail
+      inviteeEmail
+      invitedOn
+    }
+  }
+}
