@@ -2,9 +2,13 @@
   "name": "hoppscotch-app",
   "version": "3.0.1",
   "description": "Open source API development ecosystem",
-  "author": "Hoppscotch (support@hoppscotch.io)",
   "private": true,
+  "repository": "github:sethuaung/Hoppscotch",
+  "homepage": "https://api.felixent.net/",
   "license": "MIT",
+  "author": {
+    "name": "SeThuAung",
+    "email": "sethuaung@outlook.com"
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "prepare": "husky install",
