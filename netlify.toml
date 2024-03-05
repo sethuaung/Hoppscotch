@@ -4,7 +4,7 @@
 
 [build]
   base = "/"
-  publish = "packages/hoppscotch-web/dist"
+  publish = "packages/hoppscotch-selfhost-web/dist"
   command = "npx pnpm i --store=node_modules/.pnpm-store && npx pnpm run generate"
 
 [[headers]]
