@@ -9,6 +9,7 @@
   "author": {
     "name": "SeThuAung",
     "email": "sethuaung@outlook.com"
+  },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "prepare": "husky install",
