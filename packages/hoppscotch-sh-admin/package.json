@@ -43,7 +43,7 @@
     "unplugin-icons": "^0.14.9",
     "unplugin-vue-components": "^0.21.0",
     "vue": "^3.2.6",
-    "vue-i18n": "^9.2.2",
+    "vue-i18n": "^9.14.3",
     "vue-router": "4",
     "vue-tippy": "6.0.0-alpha.58"
   },
