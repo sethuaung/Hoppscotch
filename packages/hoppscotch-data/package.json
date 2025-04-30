@@ -36,7 +36,7 @@
   "devDependencies": {
     "@types/lodash": "^4.14.200",
     "typescript": "^5.2.2",
-    "vite": "^4.5.13"
+    "vite": "^4.5.14"
   },
   "dependencies": {
     "fp-ts": "^2.16.1",
