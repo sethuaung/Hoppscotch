@@ -61,7 +61,7 @@
     "httpsnippet": "^3.0.1",
     "insomnia-importers": "^3.6.0",
     "io-ts": "^2.2.20",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "jsonpath-plus": "^10.3.0",
     "lodash-es": "^4.17.21",
     "lossless-json": "^3.0.2",
