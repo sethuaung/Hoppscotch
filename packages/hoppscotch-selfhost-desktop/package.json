@@ -27,7 +27,7 @@
     "environments.api": "link:@platform/environments/environments.api",
     "event": "link:@tauri-apps/api/event",
     "fp-ts": "^2.16.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "process": "^0.11.10",
     "rxjs": "^7.8.1",
     "shell": "link:@tauri-apps/api/shell",
