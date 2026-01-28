@@ -63,7 +63,7 @@
     "io-ts": "^2.2.20",
     "js-yaml": "^4.1.0",
     "jsonpath-plus": "^10.3.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "lossless-json": "^3.0.2",
     "minisearch": "^6.3.0",
     "nprogress": "^0.2.0",
