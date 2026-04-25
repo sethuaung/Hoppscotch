@@ -34,7 +34,7 @@
     "graphql": "^16.8.1",
     "io-ts": "^2.2.16",
     "lodash-es": "^4.17.23",
-    "postcss": "^8.4.23",
+    "postcss": "^8.5.10",
     "prettier-plugin-tailwindcss": "^0.5.6",
     "rxjs": "^7.8.0",
     "tailwindcss": "^3.3.5",
