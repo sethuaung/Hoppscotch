@@ -100,7 +100,7 @@
     "workbox-window": "^7.0.0",
     "xml-formatter": "^3.6.0",
     "yargs-parser": "^21.1.1",
-    "zod": "^3.22.4"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
